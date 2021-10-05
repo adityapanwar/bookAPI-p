@@ -1,0 +1,11 @@
+/node_modules
+
+package-lock.json
+
+.env
+
+needables.txt
+
+mongoDB.txt
+mongoDB_operators.txt
+microservices.txt
